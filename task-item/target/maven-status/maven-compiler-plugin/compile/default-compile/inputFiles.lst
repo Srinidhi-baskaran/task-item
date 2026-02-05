@@ -1,0 +1,13 @@
+C:\Users\gabss\Downloads\task-item\src\main\java\com\example\task_item\controller\ItemController.java
+C:\Users\gabss\Downloads\task-item\src\main\java\com\example\task_item\Dto\CreateItemDto.java
+C:\Users\gabss\Downloads\task-item\src\main\java\com\example\task_item\Dto\ErrorDto.java
+C:\Users\gabss\Downloads\task-item\src\main\java\com\example\task_item\Dto\ItemDto.java
+C:\Users\gabss\Downloads\task-item\src\main\java\com\example\task_item\entities\CreateItem.java
+C:\Users\gabss\Downloads\task-item\src\main\java\com\example\task_item\entities\Item.java
+C:\Users\gabss\Downloads\task-item\src\main\java\com\example\task_item\GlobalExcepionHandler.java
+C:\Users\gabss\Downloads\task-item\src\main\java\com\example\task_item\ItemRepository.java
+C:\Users\gabss\Downloads\task-item\src\main\java\com\example\task_item\Mapper\impl\ItemMapperImpl.java
+C:\Users\gabss\Downloads\task-item\src\main\java\com\example\task_item\Mapper\ItemMapper.java
+C:\Users\gabss\Downloads\task-item\src\main\java\com\example\task_item\service\impl\ItemServiceImpl.java
+C:\Users\gabss\Downloads\task-item\src\main\java\com\example\task_item\service\ItemService.java
+C:\Users\gabss\Downloads\task-item\src\main\java\com\example\task_item\TaskItemApplication.java
